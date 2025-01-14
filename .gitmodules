@@ -1,0 +1,18 @@
+[submodule ".modules/php_file_get_contents_curl"]
+	path = .modules/php_file_get_contents_curl
+	url = https://github.com/liledix4/php_file_get_contents_curl
+[submodule ".modules/php_file_lock"]
+	path = .modules/php_file_lock
+	url = https://github.com/liledix4/php_file_lock
+[submodule ".modules/php_website_meta"]
+	path = .modules/php_website_meta
+	url = https://github.com/liledix4/php_website_meta
+[submodule ".modules/php_file_uploads"]
+	path = .modules/php_file_uploads
+	url = https://github.com/liledix4/php_file_uploads
+[submodule ".modules/php_geo_access"]
+	path = .modules/php_geo_access
+	url = https://github.com/liledix4/php_geo_access
+[submodule ".modules/php_url"]
+	path = .modules/php_url
+	url = https://github.com/liledix4/php_url
